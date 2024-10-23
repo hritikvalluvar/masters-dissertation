@@ -1,4 +1,4 @@
-# Data Driven Dimensaionality Reduction of Jacobian in Diffuse Optical Tomography
+# Data Driven Dimensionality Reduction of Jacobian in Diffuse Optical Tomography
 
 ![3D Brain Mesh](Images/3D_mesh_xy_plane.png)
 
